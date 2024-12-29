@@ -14635,7 +14635,7 @@
     "author": "wenlzhang",
     "description": "Maintain note links when splitting or reorganizing notes.",
     "repo": "wenlzhang/obsidian-link-maintainer"
-  },
+},
 {
   "id": "Backgroundset",
   "name": "Backgroundset",
