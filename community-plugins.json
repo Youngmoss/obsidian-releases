@@ -14635,5 +14635,12 @@
     "author": "wenlzhang",
     "description": "Maintain note links when splitting or reorganizing notes.",
     "repo": "wenlzhang/obsidian-link-maintainer"
-  }
+  },
+{
+  "id": "obsidian-background",
+  "name": "Backgroundset",
+  "author": "daonali",
+  "description": "Allow you to set background image set(folder) for obsidian",
+  "repo": "Youngmoss/obsidian-backgroundset"
+}
 ]
